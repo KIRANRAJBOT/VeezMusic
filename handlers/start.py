@@ -52,13 +52,13 @@ async def start_(client: Client, message: Message):
                          "📚 Commands", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "💝 Donate", url=f"https://t.me/{OWNER_NAME}")
+                        "💝 Donate", url=f"https://t.me/{Kittu_The_criminal}")
                 ],[
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥 Official Group", url=f"https://t.me/{tamilchatkings}"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
+                        "📣 Official Channel", url=f"https://t.me/{tamilchatkings}")
                 ],[
                     InlineKeyboardButton(
                         "🌐 Wiki's Page", url="https://github.com/levina-lab/veezmusic/wiki/Veez-Music-Wiki's")
@@ -84,10 +84,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "✨ Group", url=f"https://t.me/{tamilchatkings}"
                     ),
                     InlineKeyboardButton(
-                        "📣 Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📣 Channel", url=f"https://t.me/{tamilchatkings}"
                     )
                 ]
             ]
